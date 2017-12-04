@@ -1,0 +1,16 @@
+{
+    "name": "Advocodo/DigitalPianism_CustomReports",
+    "description": "Add new reports to Magento",
+    "type": "magento-module",
+    "homepage": "http://www.digital-pianism.com/en/magento-modules/worstsellers-bestsellers-worstsellers-categories-and-custom-reports.html",
+    "keywords": ["Magento", "module", "reports"],
+    "authors": [
+        {
+            "name": "Digital Pianism",
+            "role": "owner"
+        }
+    ],
+    "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+    }
+}
